@@ -35,7 +35,7 @@ int main()
     cout << "Enter the number of columns: ";
     cin >> n;
     read_matrix(m,n);
-    cout << "Diplaying the matrix with entered elements:" << endl;
+    cout << "Displaying the matrix with entered elements:" << endl;
     display_matrix(m,n);
     return 0;
 }
